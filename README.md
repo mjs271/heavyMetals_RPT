@@ -10,4 +10,4 @@ finite difference model from the above manuscript.
 - The `miRPT` directory contains the Fortran code used to run the
 particle-tracking model from the above manuscript.
 
-<!-- [![DOI](https://zenodo.org/badge/)](https://zenodo.org/badge/) -->
+[![DOI](https://zenodo.org/badge/219566832.svg)](https://zenodo.org/badge/latestdoi/219566832)
