@@ -12,4 +12,4 @@ particle-tracking model from the above manuscript.
 
 - The `data` directory contains a MATLAB script and `.mat` file with the data found in L. Winowiecki, *Geochemical cycling of heavy metals in the sediment of Lake Coeur d’Alene, Idaho,* Master’s thesis, University of Idaho (October 2002).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3708060.svg)](https://doi.org/10.5281/zenodo.3708060)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3731275.svg)](https://doi.org/10.5281/zenodo.3731275)
