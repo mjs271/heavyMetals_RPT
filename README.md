@@ -10,6 +10,8 @@ finite difference model from the above manuscript.
 - The `miRPT` directory contains the Fortran code used to run the
 particle-tracking model from the above manuscript.
 
+- The `figures` directory contains a plot of the full 100-member ensemble results for the spatially-perturbed condition, found in Section 4.3.2 and Figures 8 and 9 in the above-referenced manuscript.
+
 - The `data` directory contains a MATLAB script and `.mat` file with the data found in L. Winowiecki, *Geochemical cycling of heavy metals in the sediment of Lake Coeur d’Alene, Idaho,* Master’s thesis, University of Idaho (October 2002).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3731275.svg)](https://doi.org/10.5281/zenodo.3731275)
